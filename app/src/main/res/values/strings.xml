@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practicando PC2</string>
+    <string name="valtvTitle">Registro Liga 1</string>
+    <string name="valetNombreEquipo">Nombre del equipo</string>
+    <string name="valAnio">Año de fundación</string>
+    <string name="valTitulos">Número de títulos ganados</string>
+    <string name="valetUrl">URL de la imagen del equipo</string>
+    <string name="valbtnGuardar">Guardar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="valbtnNuevo" />
+    <string name="valbtNuevo">Nuevo Registro</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727742872947",
+    "project_id": "practicandopc2-6e3b6",
+    "storage_bucket": "practicandopc2-6e3b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727742872947:android:e4a16a815c3f8704e61906",
+        "android_client_info": {
+          "package_name": "dev.williamscg.practicandopc2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALs656ajc3MVTxlwLYcIkV23khyGGSD0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
